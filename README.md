@@ -1,4 +1,4 @@
-This repository contains my Data Structures & Algorithms solutions solved on Geeks For Geeks and automatically synced to GitHub using LeetHub.
+This repository contains my Data Structures & Algorithms solutions solved on Geeks For Geeks and automatically synced to GitHub using GfG to Github.
 
 🛠️ Tech Stack
 
